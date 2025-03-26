@@ -1,1 +1,1 @@
-# EDA Projects this is the EDA project
+# This is the EDA project
